@@ -16,7 +16,7 @@
 .row-poster {
   object-fit: contain;
   width: 100%;
-  min-height: 150px;
+  max-height: 150px;
   margin-right: 5px;
   padding: 20px;
   transition: transform 450ms ease;
@@ -27,7 +27,7 @@
 .row-posterLarge {
   object-fit: contain;
   width: 100%;
-  min-height: 300px;
+  max-height: 300px;
   margin-right: 5px;
   padding: 20px;
   transition: transform 450ms ease;
